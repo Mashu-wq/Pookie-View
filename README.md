@@ -8,19 +8,19 @@ I've recently developed a Movie app(Pookie View) using Flutter, integrated with 
 
 🎥 Movies:
 
-Popular
-Top Rated
-Upcoming
-Now Playing
-Similar
+Popular,
+Top Rated,
+Upcoming,
+Now Playing,
+Similar.
 
 📺 TV Shows:
 
-Popular
-Top Rated
-On the Air
-Airing Today
-Similar 
+Popular,
+Top Rated,
+On the Air,
+Airing Today,
+Similar. 
 
 
 A few resources to get you started if this is your first Flutter project:
