@@ -4,7 +4,24 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I've recently developed a Movie app(Pookie View) using Flutter, integrated with the TMDB API. This app brings an immersive experience for movie and TV show enthusiasts, offering a wide range of content.
+
+🎥 Movies:
+
+Popular
+Top Rated
+Upcoming
+Now Playing
+Similar
+
+📺 TV Shows:
+
+Popular
+Top Rated
+On the Air
+Airing Today
+Similar 
+
 
 A few resources to get you started if this is your first Flutter project:
 
